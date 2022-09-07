@@ -18,7 +18,7 @@ The Museum lives in two iconic sites in New York City.
 * I would suggest the places near by the metropolitan Museum 
 * The Central Park 
 * Solomon R.Guggenheim 
-* Empire state building 
-* The Frick Collection
+* Empire state building. 
+* The Frick Collection.
 
 [AboutMe](AboutMe.md)
