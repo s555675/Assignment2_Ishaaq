@@ -11,4 +11,13 @@ The Museum lives in two iconic sites in New York City.
 3. Comming out from the Airport At Terminal 4 
 4. later  12 minuts time to  enter into the jamaica Station -Station D
 5.  From there Lexington Av/ 53 st 10 minutes distance from the Lexington 
-6. Take the stright path from the Lexington and take a 10 minutes to reach the metropolitan Museum of arts 
+6. Take the stright path from the Lexington and take a 10 minutes to reach the metropolitan Museum of arts
+
+----
+# Famous locations near the Museum 
+* I would suggest the places near by the metropolitan Museum 
+* The Central Park 
+* Solomon R.Guggenheim 
+* Empire state building 
+* The Frick Collection
+
