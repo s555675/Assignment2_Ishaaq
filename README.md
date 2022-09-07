@@ -30,4 +30,9 @@ The famous cities that i recomonded to visit in India that i love the most are i
 | Nagpure  | Nuclear fision center | 5 |
 | chennai | Marina Beach | 5 |
 | Kerala | Nature and Pure coconut oil | 7 | 
+---
+# Quote  
+ > Every Person has his qor her own ideology about life that gives them Confidence  *AjayKPandey* 
+ > Dont be serious be sincere *ChetanBhagath*
  
+
