@@ -33,6 +33,7 @@ The famous cities that i recomonded to visit in India that i love the most are i
 ---
 # Quote  
  > Every Person has his qor her own ideology about life that gives them Confidence  *AjayKPandey* 
+ >
  > Dont be serious be sincere *ChetanBhagath*
- 
+
 
