@@ -20,5 +20,14 @@ The Museum lives in two iconic sites in New York City.
 * Solomon R.Guggenheim 
 * Empire state building. 
 * The Frick Collection.
-
 [AboutMe](AboutMe.md)
+---
+# Tables 
+The famous cities that i recomonded to visit in India that i love the most are in the first place i would like to mention Vijayawada  in Andhra Pradesh its my native place it is famous for Prakasham barriage and the nagpure in maharastra famous for the necular fision center placed in nagpure and in the 3rd place i like to mention about the chennai famous for Marina  beache and at last i like to mention about the kerala which is famous for fresh coconut oil and nature there no pollution heighest rate of education over all the india 
+| Name of the City| Location To Visit in the City | Amount of the time |
+| --- | --- | --- | 
+| Vijayawada | Prakasham Birrage | 3  |
+| Nagpure  | Nuclear fision center | 5 |
+| chennai | Marina Beach | 5 |
+| Kerala | Nature and Pure coconut oil | 7 | 
+ 
